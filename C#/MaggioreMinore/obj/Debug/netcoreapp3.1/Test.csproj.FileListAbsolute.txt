@@ -1,0 +1,11 @@
+C:\Users\emanu\Desktop\c#\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\emanu\Desktop\c#\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\emanu\Desktop\c#\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\emanu\Desktop\c#\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\emanu\Desktop\c#\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\emanu\Desktop\c#\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\emanu\Desktop\c#\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\emanu\Desktop\c#\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\c#\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\emanu\Desktop\c#\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\emanu\Desktop\c#\Test\obj\Debug\netcoreapp3.1\Test.pdb

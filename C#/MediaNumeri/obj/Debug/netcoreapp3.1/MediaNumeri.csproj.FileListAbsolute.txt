@@ -1,0 +1,11 @@
+c:\Users\emanu\Desktop\C#\MediaNumeri\bin\Debug\netcoreapp3.1\MediaNumeri.exe
+C:\Users\emanu\Desktop\C#\MediaNumeri\bin\Debug\netcoreapp3.1\MediaNumeri.deps.json
+C:\Users\emanu\Desktop\C#\MediaNumeri\bin\Debug\netcoreapp3.1\MediaNumeri.runtimeconfig.json
+C:\Users\emanu\Desktop\C#\MediaNumeri\bin\Debug\netcoreapp3.1\MediaNumeri.runtimeconfig.dev.json
+c:\Users\emanu\Desktop\C#\MediaNumeri\bin\Debug\netcoreapp3.1\MediaNumeri.dll
+c:\Users\emanu\Desktop\C#\MediaNumeri\bin\Debug\netcoreapp3.1\MediaNumeri.pdb
+c:\Users\emanu\Desktop\C#\MediaNumeri\obj\Debug\netcoreapp3.1\MediaNumeri.csprojAssemblyReference.cache
+c:\Users\emanu\Desktop\C#\MediaNumeri\obj\Debug\netcoreapp3.1\MediaNumeri.AssemblyInfoInputs.cache
+c:\Users\emanu\Desktop\C#\MediaNumeri\obj\Debug\netcoreapp3.1\MediaNumeri.AssemblyInfo.cs
+c:\Users\emanu\Desktop\C#\MediaNumeri\obj\Debug\netcoreapp3.1\MediaNumeri.dll
+c:\Users\emanu\Desktop\C#\MediaNumeri\obj\Debug\netcoreapp3.1\MediaNumeri.pdb
